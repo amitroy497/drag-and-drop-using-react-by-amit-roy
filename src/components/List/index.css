@@ -1,0 +1,28 @@
+.commonContainer {
+	border: 4px dotted #000;
+	padding: 1rem;
+	width: 265px;
+	height: 400px;
+}
+.dark-theme .commonContainer {
+	border-color: #fff;
+}
+.list {
+	background-color: brown;
+	padding: 0.5rem;
+	color: #fff;
+	font-weight: bold;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	cursor: grab;
+	margin: 1rem 0;
+}
+.image {
+	width: 15px;
+	height: 15px;
+}
+.textSpan {
+	width: 200px;
+	text-align: center;
+}

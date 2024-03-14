@@ -1,0 +1,6 @@
+.container {
+	min-height: 100vh;
+}
+.dark-theme {
+	background-color: #000;
+}

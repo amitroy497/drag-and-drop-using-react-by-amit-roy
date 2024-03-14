@@ -1,0 +1,28 @@
+.headerContainer {
+	padding: 2rem 1rem;
+}
+.title {
+	font-size: 2rem;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 2rem;
+}
+.dark-theme .title {
+	color: #fff;
+}
+.toggleTheme {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	width: 100px;
+}
+.themeText {
+	font-weight: 500;
+	font-size: 1rem;
+}
+.dark-theme .themeText {
+	color: #fff;
+}
+.toggle {
+	cursor: pointer;
+}
